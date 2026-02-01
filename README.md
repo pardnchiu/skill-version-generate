@@ -15,8 +15,6 @@
 - [Usage](#usage)
 - [Classification Tags Reference](#classification-tags-reference)
 - [License](#license)
-- [Author](#author)
-- [Stars](#stars)
 
 ## Features
 
